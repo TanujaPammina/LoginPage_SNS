@@ -111,6 +111,7 @@ CREATE TABLE users (
     userId VARCHAR(50),
     password VARCHAR(50)
 );
+---
 ### 3. Configure Database Connection
 
 Update credentials in Java files:
