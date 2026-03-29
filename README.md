@@ -99,7 +99,8 @@ LoginApp/
 
 ---
 
-### 2. Database Setup
+```md id="fix123"
+### 🔹 2. Database Setup
 
 ```sql
 CREATE DATABASE testdb;
