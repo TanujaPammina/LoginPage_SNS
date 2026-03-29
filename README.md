@@ -133,7 +133,9 @@ Connection con = DriverManager.getConnection(
 ```bash
 javac -cp "path_to_servlet-api.jar" LoginServlet.java
 javac -cp "path_to_servlet-api.jar" SignupServlet.java
+```
 ---
+
 
 ### 🔹 5. Deployment
 
@@ -142,6 +144,7 @@ Place project folder inside Tomcat webapps
 Start Tomcat server
 Open browser:
 http://localhost:8080/LoginApp/login.html
+```
 ---
 
 
@@ -152,17 +155,20 @@ User opens login page
 New user → Register → Data stored in MySQL
 Existing user → Login → Credentials verified
 Result displayed on screen
+```
 ---
 ### 🔐 Security
 ```bash
 Uses PreparedStatement to prevent SQL Injection
 (Future Improvement: Password hashing)
+```
 ---
 ### 🚀 Future Improvements
 Password encryption (hashing)
 Session management
 Dashboard page after login
 Improved UI/UX
+```
 ---
 ### 👩‍💻 Author
 
