@@ -168,7 +168,6 @@ Password encryption (hashing)
 Session management
 Dashboard page after login
 Improved UI/UX
-```
 ---
 ### 👩‍💻 Author
 
