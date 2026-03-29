@@ -114,15 +114,18 @@ CREATE TABLE users (
 );
 ```
 ---
-### 3. Configure Database Connection
+```md id="fix456"
+### 🔹 3. Configure Database Connection
 
 Update credentials in Java files:
 
+```java
 Connection con = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/testdb",
     "root",
     "your_password"
 );
+```
 ---
 
 ### 🔹 4. Compile Servlets
