@@ -164,10 +164,10 @@ Uses PreparedStatement to prevent SQL Injection
 ```
 ---
 ### 🚀 Future Improvements
-Password encryption (hashing)
-Session management
-Dashboard page after login
-Improved UI/UX
+-Password encryption (hashing)
+-Session management
+-Dashboard page after login
+
 ---
 ### 👩‍💻 Author
 
